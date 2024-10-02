@@ -32,7 +32,6 @@ const generateAI = async (prompt) => {
     }
 }
 
-// generateAI()
 
 
 app.post("/api/content", async (req, res) => {
